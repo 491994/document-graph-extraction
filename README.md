@@ -24,7 +24,7 @@ Tesseract OCR
 NetworkX
 
 ## Results
-The proposed graph-based model achieved an F1-score of 0.89 compared
+The proposed graph-based model achieved an F1-score of 0.925 compared
 to 0.68 for rule-based extraction systems.
 
 ## Applications
